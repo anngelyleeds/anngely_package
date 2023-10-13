@@ -1,5 +1,5 @@
 #' Longitude, Latitude, Date Conversion
-#' 'coordinate_function' returns latitude and longitude inputs into decimal degrees.
+#' @description 'coordinate_function' returns latitude and longitude inputs into decimal degrees.
 #' This function converts decimal minutes into decimal degrees for latitude and longitude data. The function also converts dates into R format.
 #' @param long longitude coordinate
 #' @param lat latitude coordinate
